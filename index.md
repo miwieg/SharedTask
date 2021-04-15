@@ -68,7 +68,7 @@ The annotation guidelines for the data set can be obtained upon request.
 
 ## Evaluation
 
-To evaluate your approach, you will upload the predictions on the test data set that will be released shortly before the task will terminate. We will use the platform [codalab](https://codalab.org/) for evaluation.
+To evaluate your approach, you will upload your predictions on the test data set that will be released shortly before the task will terminate. We will use the platform [codalab](https://codalab.org/) for evaluation.
 The evaluation uses precision, recall, and macro-average F1-score as metrics. 
 
 
