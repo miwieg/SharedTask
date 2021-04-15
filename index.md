@@ -86,7 +86,7 @@ The GermEval 2021 workshop is part of [KONVENS 2021](https://konvens2021.phil.hh
 ## Time Line
 
 - :heavy_check_mark: Registration is open: April 15, 2021
-- :heavy_check_mark: Trail data release: April 30, 2021
+- :heavy_check_mark: Trial data release: April 30, 2021
 - Test data release: June 23, 2021
 - Submission deadline to codalab: June 30, 2021
 - Results are announced: July 7, 2021
