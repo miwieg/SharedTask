@@ -76,6 +76,11 @@ The evaluation uses precision, recall, and macro-average F1-score as metrics.
 - Camera ready due: August 10, 2021
 - KONVENS conference: September 6-10, 2021
 
+
+## About GermEval
+GermEval is a series of shared task evaluation campaigns that focus on Natural Language Processing for the German language. So far, there have been six iterations of GermEval, each with different types of tasks: [https://germeval.github.io/tasks/](https://germeval.github.io/tasks/) GermEval shared tasks have been run informally by self-organized groups of interested researchers. However, many of the shared tasks were endorsed by special interest groups within the [German Society for Computational Linguistics (GSCL)](https://gscl.org/en). The Shared Task on the Identification of Toxic, Engaging, and Fact-Claiming Comments is endorsed by the [IGGSA (Interest Group on German Sentiment Analysis)](https://sites.google.com/site/iggsahome/home).
+
+
 ## About KONVENS
 
 Insert Text here (oapy paste)
