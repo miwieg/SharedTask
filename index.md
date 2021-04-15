@@ -98,7 +98,12 @@ The GermEval 2021 workshop is part of [KONVENS 2021] (https://konvens2021.phil.h
 ## Organizers
 
 Julian Risch (Hasso Plattner Institute, University of Potsdam)
+
 Anke Stoll (Department of Social Sciences, Heinrich Heine University Düsseldorf)
+
 Lena Wilms (Department of Social Sciences, Heinrich Heine University Düsseldorf)
+
 Michael Wiegand (Digital Age Research Center, University of Klagenfurt)
+
+
 If you have any questions, please do not hesitate to [contact us](mailto:germeval2021toxic@gmail.com)!
