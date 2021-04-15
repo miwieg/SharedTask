@@ -63,6 +63,8 @@ For all comments, we provide information on the shared context by adding the tea
 | 2 | *"Die aktuelle Situation zeigt vor allem..."* | 0 | 1 | 0 |
 | ... | ... | ... | ... | ... | 
 
+The annotation guidelines for the data set can be obtained upon request.
+
 
 ## Evaluation
 
