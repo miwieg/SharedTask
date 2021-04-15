@@ -12,7 +12,7 @@ To this end, we extend the focus to two other classes of comments that are highl
 ### Subtask 1: :imp: Toxic Comment Classification (Binary Classification Task)
 
 
-Still, the detection of **toxic content** in online discussions **remains challenging** and new approaches are constantly being demanded and developed. With this subtask we aim to **continue** the series of previous **GermEval Shared Tasks** on Offensive Language Identification.
+The detection of **toxic content** in online discussions **remains challenging** and new approaches are constantly being demanded and developed. With this subtask we aim to **continue** the series of previous **GermEval Shared Tasks** on Offensive Language Identification.
 
 | message      | Sub1_Toxic |
 | ----------- | ----------- |
@@ -34,7 +34,7 @@ In addition to the detection of toxic language, community managers and moderator
 
 Beyond the challenge to ensure non-hostile debates, platforms and moderators are under pressure to act due to the rapid spread of **misinformation** and fake news. 
 Platforms need to review and verify posted information to meet their **responsibility** as information providers and distributors. 
-As a result, there is an increasing demand for systems that automatically identify comments that should befact-checked manually.
+As a result, there is an increasing demand for systems that automatically identify comments that should be fact-checked manually.
 Note that this subtask is not about the fact-checking itself or the identification of fake news.
 However, the identification of fact-claiming comments is a **pre-processing step for manual fact-checking**.
 
@@ -46,7 +46,7 @@ However, the identification of fact-claiming comments is a **pre-processing step
 
 ## How to Participate
 
-Teams can participate either in all three or just in one ore two of the subtasks. Please register via google forms with your name and your institution or company. After your registration, you will recieve the password to the training data set via mail. All teams that have submitted to the evaluation tool will be invited to write a short paper about their approach by July 15, 2021 to be published in the GermEval2021 conference proceedings. Have a look at recent years papers of the GermEval Shared Task on the Identification of Offensive Languagen in [2018](https://www.oeaw.ac.at/fileadmin/subsites/academiaecorpora/PDF/GermEval2018_Proceedings.pdf) and [2019](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/) for inspiration.
+Teams can participate either in all three or just in one or two of the subtasks. Please register via google forms with your name and your institution or company. After your registration, you will receive the password to the training data sent via email. All teams that have submitted a system response will be invited to write a (short) paper about their approach by July 15, 2021 to be published in the GermEval2021 conference proceedings. Have a look at recent years papers of the GermEval Shared Task on the Identification of Offensive Languagen in [2018](https://www.oeaw.ac.at/fileadmin/subsites/academiaecorpora/PDF/GermEval2018_Proceedings.pdf) and [2019](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/) for inspiration.
 
 
 ## Data Set and Resources
