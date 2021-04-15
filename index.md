@@ -79,7 +79,7 @@ GermEval is a series of shared task evaluation campaigns that focus on Natural L
 
 ## About KONVENS
 
-The GermEval 2021 workshop is part of [KONVENS 2021] (https://konvens2021.phil.hhu.de/). KONVENS (Konferenz zur Verarbeitung natürlicher Sprache/Conference on Natural Language Processing) is an annual conference series on computational linguistics that is organized under the auspices of the German Society for Computational Linguistics and Language Technology (GSCL), the Special Interest Group on Computational Linguistics of the German Linguistic Society (DGfS-CL) and the Austrian Society for Artificial Intelligence (ÖGAI).
+The GermEval 2021 workshop is part of [KONVENS 2021](https://konvens2021.phil.hhu.de/). KONVENS (Konferenz zur Verarbeitung natürlicher Sprache/Conference on Natural Language Processing) is an annual conference series on computational linguistics that is organized under the auspices of the German Society for Computational Linguistics and Language Technology (GSCL), the Special Interest Group on Computational Linguistics of the German Linguistic Society (DGfS-CL) and the Austrian Society for Artificial Intelligence (ÖGAI).
 
 
 
@@ -97,13 +97,10 @@ The GermEval 2021 workshop is part of [KONVENS 2021] (https://konvens2021.phil.h
 
 ## Organizers
 
-Julian Risch (Hasso Plattner Institute, University of Potsdam)
-
-Anke Stoll (Department of Social Sciences, Heinrich Heine University Düsseldorf)
-
-Lena Wilms (Department of Social Sciences, Heinrich Heine University Düsseldorf)
-
-Michael Wiegand (Digital Age Research Center, University of Klagenfurt)
+- Julian Risch (Hasso Plattner Institute, University of Potsdam)
+- Anke Stoll (Department of Social Sciences, Heinrich Heine University Düsseldorf)
+- Lena Wilms (Department of Social Sciences, Heinrich Heine University Düsseldorf)
+- Michael Wiegand (Digital Age Research Center, University of Klagenfurt)
 
 
 If you have any questions, please do not hesitate to [contact us](mailto:germeval2021toxic@gmail.com)!
